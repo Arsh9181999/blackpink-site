@@ -1,0 +1,25 @@
+﻿/* stylesheet for screen size less than 310px */
+#section .album-cover-one, #section .album-cover-two, #section .album-cover-three,
+#section .album-cover-four {
+   padding: 113px;
+ }
+
+#section .resize-cover {
+   width:134px;
+   height:134px;
+ }
+
+.header-title h1 {
+   padding:23px; 
+   font-size:1em;
+ }
+.main-para {
+   font-size:0.8em;
+ }
+#section a {
+   top:75%;
+   font-size:0.8em;
+ }
+#section .album-section-title {
+   font-size:1.0em;
+ }

@@ -1,0 +1,19 @@
+﻿/* style for screen size less than 484px*/
+#header .header-title {
+   margin:0;
+ }
+
+#section .album-cover-one, #section .album-cover-two, #section .album-cover-three,
+#section .album-cover-four {
+   padding: 160px;
+ }
+#section a {
+   top:75%;
+   font-size:0.8em;
+ }
+.header-title h1 {
+   padding:23px; 
+   font-size:1.5em;
+ }
+.main-para {
+   font-size:1em;

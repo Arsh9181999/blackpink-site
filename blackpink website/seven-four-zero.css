@@ -1,0 +1,9 @@
+﻿/* style for screen size less than 484px*/
+#header .header-title {
+   margin:40px 0;
+ }
+
+#section .album-cover-one, #section .album-cover-two, #section .album-cover-three,
+#section .album-cover-four {
+   padding: 0px;
+ }
